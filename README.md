@@ -2,9 +2,13 @@
 
 React in ChatGPT is a Chrome Extension that lets you render React components with tailwindcss directly in ChatGPT
 
+### Demo
+
+![demo](https://github.com/woniesong92/react-in-chatgpt/assets/2935309/f550d2ab-00c1-47c9-87c7-c12ba7616b38)
+
 ### Quickstart
 
-1. Install the chrome extension
+1. Install the [Chrome Extension](https://chromewebstore.google.com/detail/react-in-chatgpt/mpgcjbncjpngijjgkmkkgmhpdjnmbgif)
 2. Go to ChatGPT
 3. Ask ChatGPT to write a React component for you (e.g. "Write a simple React component for a SignUpForm with tailwindcss")
 4. Click the "Render component" button next to the "Copy code" button
