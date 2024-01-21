@@ -4,7 +4,7 @@ React in ChatGPT is a Chrome Extension that lets you render React components wit
 
 ### Demo
 
-![demo](https://github.com/woniesong92/react-in-chatgpt/assets/2935309/f550d2ab-00c1-47c9-87c7-c12ba7616b38)
+[demo.webm](https://github.com/woniesong92/react-in-chatgpt/assets/2935309/28739e89-f63d-40a7-af6a-f1eb91618548)
 
 ### Quickstart
 
