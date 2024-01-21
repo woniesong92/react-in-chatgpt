@@ -1,0 +1,6 @@
+pre div div button.flex::before {
+    content: "Render component";
+    cursor: pointer;
+    color: white;
+    margin-right: 5px;
+}
